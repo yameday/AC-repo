@@ -1,0 +1,11 @@
+.my-nav {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+body {
+    padding-top: 70px;
+}
