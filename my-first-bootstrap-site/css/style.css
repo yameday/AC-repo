@@ -1,11 +1,22 @@
 .my-nav {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  /*background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);*/
 }
 
 .my-nav ul {
   margin: 10px 0;
 }
 
-body {
-    padding-top: 70px;
+.navbar-header{
+	margin: 10px 0;	
 }
+
+
+.position-set{
+	padding-top: 80px;
+}
+
+.my-brand{
+	font-size: 24px !important;
+}
+
+
